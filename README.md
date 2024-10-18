@@ -1,4 +1,4 @@
-# Les Lignes Identiques
+# Interpréteur LaTeX
 
 ## ☆ AUTEURS
 
@@ -8,8 +8,7 @@
 
 ## ☆ FONCTIONNALITÉS 
 
-- Donne le numéro des lignes lorsqu'elles sont identiques dans un seul fichier,
-- Donne le nombre d'occurences d'une même ligne dans au moins deux fichiers.
+- Compile le code d'un fichier LaTeX en assembleur et retourne le résultat des calculs.
 
 ---
 
