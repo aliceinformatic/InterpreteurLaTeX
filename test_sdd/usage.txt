@@ -1,0 +1,12 @@
+Ce dossier teste les fonctions sur les structures de données utilisées : 
+
+-Pour tester la table des symboles : 
+
+chmod +x tsym.sh 
+./tsym.sh
+
+
+-Pour tester la pile d'algorithmes : 
+
+chmod +x stack_algo.sh 
+./stack_algo.sh

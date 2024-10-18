@@ -1,0 +1,6 @@
+GUIDE D'UTILISATION :
+
+  chmod +x script.sh
+  ./script.sh nomalgo.tex
+
+/!\ IL FAUT QUE "nomalgo.tex" SOIT DANS tex/
